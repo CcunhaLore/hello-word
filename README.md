@@ -1,2 +1,2 @@
 # hello-word
-Atividade de primeiro repositório 
+Atividade do primeiro repositório 
